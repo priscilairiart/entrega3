@@ -1,0 +1,20 @@
+
+footer {
+    margin-top: auto;
+    background-color: #0e2222;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  footer.redes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  footer.redes a {
+    color: #e6e3e3;
+    text-decoration: none;
+    margin: 0 10px;
+  }
